@@ -1,0 +1,23 @@
+keyword,type,addTo,after
+chambres,num,bedrooms,TRUE
+chambre,num,bedrooms,TRUE
+bedroom,num,bedrooms,FALSE
+bedrooms,num,bedrooms,FALSE
+tuwarete,num,bathrooms,TRUE
+toilets,num,bathrooms,FALSE
+baths,num,bathrooms,FALSE
+bathrooms,num,bathrooms,FALSE
+bathrooms,num,bathrooms,FALSE
+ibyumba,num,bedrooms,TRUE
+Bedrooms,num,bedrooms,TRUE
+inyumba,num,bedrooms,TRUE
+bathroom,num,bathrooms,FALSE
+Bathrooms,num,bathrooms,FALSE
+big bedroom,num,bedrooms,FALSE
+toiltte,num,bathrooms,TRUE
+apartment,bool,apartment,
+APARTMENT,bool,apartment,
+Apartment,bool,apartment,
+water tank,bool,water tank,
+Water Tank,bool,water tank,
+Water tank,bool,water tank,
